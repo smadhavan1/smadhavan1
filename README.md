@@ -1,7 +1,6 @@
 ## Hi there 👋
-- I'm currently working to improve my DSA skills.
-- I’m currently learning C
-- Pronouns: He/Him
+I've explored C, HTML, and CSS, and I'm currently diving deeper into C++ and JavaScript.  
+Right now, I'm focused on strengthening my skills in Data Structures & Algorithms and Web Development.
 <!--
 **smadhavan1/smadhavan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
